@@ -23,7 +23,7 @@
 }
 
 #waifu {
-	bottom: 0px;
+	bottom: -1000px;
 	left: 0;
 	line-height: 0;
 	margin-bottom: -10px;
@@ -53,7 +53,7 @@
 	position: absolute;
 	text-overflow: ellipsis;
 	transition: opacity 1s;
-	width: 250px;
+	width: 2500px;
 	word-break: break-all;
 }
 
