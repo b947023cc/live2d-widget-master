@@ -4,13 +4,13 @@
 	bottom: 66px;
 	color: #fff;
 	cursor: pointer;
-	font-size: 12px;
+	font-size: 1200px;
 	left: 0;
 	margin-left: -100px;
 	padding: 5px 2px 5px 5px;
 	position: fixed;
 	transition: margin-left 1s;
-	width: 600px;
+	width: 60px;
 	writing-mode: vertical-rl;
 }
 
