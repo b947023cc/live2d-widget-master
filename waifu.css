@@ -10,7 +10,7 @@
 	padding: 5px 2px 5px 5px;
 	position: fixed;
 	transition: margin-left 1s;
-	width: 60px;
+	width: 600px;
 	writing-mode: vertical-rl;
 }
 
@@ -23,7 +23,7 @@
 }
 
 #waifu {
-	bottom: -10px;
+	bottom: -1000px;
 	left: 0;
 	line-height: 0;
 	margin-bottom: -10px;
